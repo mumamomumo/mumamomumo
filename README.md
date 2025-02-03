@@ -18,11 +18,14 @@ I love being positive, because why should I intentionally bring negativity into 
 * Yet another productivity app - Almost done. I used this to learn React and Tauri
 * Paint app with Python AI trained with the MNIST dataset - Used this to learn NNs in Python with Numpy, still WIP
 * Snippet Vault - To learn the basics of meta-frameworks, authentication, and database stuff.
-* App to talk to Ollama models with a UI, and markdown support.
 
 ## What I might make
-* Yet another personal assistant - To learn about language processing and speech to text stuff
-* Yet another app for fun
+Nothing yet...
+
+
+## Dropped projects :(
+* AI that can connect to APIs automatically
+* 
 
 ## Currently learning
 * [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
