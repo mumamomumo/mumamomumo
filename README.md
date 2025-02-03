@@ -17,20 +17,13 @@ I love being positive, because why should I intentionally bring negativity into 
 ## Currently making / Plan to make
 * Yet another productivity app - Almost done. I used this to learn React and Tauri
 * Paint app with Python AI trained with the MNIST dataset - Used this to learn NNs in Python with Numpy, still WIP
-* Snippet Vault - To learn the basics of meta-frameworks, authentication, and database stuff.
 
 ## What I might make
-Nothing yet...
-
-
-## Dropped projects :(
-* AI that can connect to APIs automatically
-* 
+* Snippet Vault - To learn the basics of meta-frameworks, authentication, and database stuff.
 
 ## Currently learning
 * [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 * [![SolidStart](https://img.shields.io/badge/SolidStart-3c5fbc?style=for-the-badge&logo=solid&logoColor=white)](https://docs.solidjs.com/solid-start)
-* SQL
 
 ## Stuff I know
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) 
