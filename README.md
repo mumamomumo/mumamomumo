@@ -16,7 +16,9 @@ I love being positive, because why should I intentionally bring negativity into 
 
 ## Proud Projects
 [Yet Another Productivity App](https://anotherproductivity.vercel.app/) - An app made with React, Typescript, bundled with Tauri. I didn't use Rust for this app. It's available on the web too.
+
 [This thing](https://github.com/mumamomumo/ui-testing-thingy) - A little project to practice CSS.
+
 [Pomodoro Thingy](https://github.com/mumamomumo/pomodoro-thingy) - A pomodoro timer that looks like a Nintendo Gameboy. The buttons work, and you can input numbers with the keyboard. No games on it though :(
 
 
