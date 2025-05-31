@@ -1,0 +1,150 @@
+/* Code comment style */
+.mtk8 {
+  font-family: "Outfit", monospace !important;
+  color: #31ffea !important;
+  font-style: none;
+}
+
+.line-numbers {
+  position: relative !important;
+  width: 35px !important;
+  font-size: 12px !important;
+  opacity: 0.7;
+}
+
+/* Side bar */
+.part.sidebar {
+  box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.25);
+  padding-left: 10px !important;
+}
+
+/* File Explorer Item Label */
+.monaco-tree .monaco-tree-row .label-name,
+.monaco-list .monaco-list-row .monaco-icon-label .label-name {
+  font-family: "OutfitLight", monospace !important;
+  font-size: 14px !important;
+  color: #fff !important;
+}
+
+/* Sidebar top shadow */
+.monaco-scrollable-element > .shadow.top {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.75) !important;
+  top: -3px !important;
+}
+
+/* Scroll Bar */
+.slider {
+  position: absolute !important;
+  right: 1px !important;
+  width: 1px !important;
+  background: #bc9abc !important;
+  left: auto !important;
+}
+
+.codicon-toolbar-more,
+.codicon-word-wrap {
+  display: block !important;
+}
+
+.composite.title h2 {
+  font-size: 12px !important;
+  text-transform: uppercase;
+  color: #bc9abc !important;
+}
+
+.composite.title h2::before {
+  display: inline-block;
+  margin-right: 6px;
+  font-size: 1rem;
+  content: "🚀";
+}
+
+/* Tooltip box style */
+.monaco-editor-hover,
+.monaco-hover {
+  box-shadow: 0px 8px 32px rgba(0, 0, 0, 0.45) !important;
+  background: rgba(0, 0, 0, 0.1) !important;
+  backdrop-filter: blur(5px) !important;
+  border-radius: 10px !important;
+  border: 2px solid !important;
+}
+
+.monaco-workbench
+  .part.titlebar
+  > .titlebar-container
+  > .titlebar-center
+  > .window-title
+  > .command-center
+  .action-item.command-center-center {
+  border: none !important;
+  background: transparent !important;
+}
+
+.titlebar-left {
+  justify-content: flex-start !important;
+  flex-grow: 0 !important;
+  width: auto !important;
+}
+
+.search-icon {
+  display: none !important;
+}
+
+.codicon-search::before {
+  display: none !important;
+}
+
+.codicon-arrow-right,
+.codicon-arrow-left {
+  display: none !important;
+}
+
+.titlebar-right > * {
+  display: none !important;
+}
+
+.monaco-list-rows {
+  background: transparent !important;
+}
+
+.part.panel.basepanel.bottom.pane-composite-part {
+  border-top: 2px solid rgba(72, 72, 72, 0.47) !important;
+  border-bottom: 2px solid rgb(72, 72, 72) !important;
+}
+
+.quick-input-widget {
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.45) !important;
+  backdrop-filter: blur(3px) !important;
+  border-radius: 10px !important;
+}
+
+.quick-input-filter .monaco-inputbox {
+  border-radius: 5px !important;
+  padding: 2px !important;
+  border: none !important;
+  font-size: 14px !important;
+}
+
+.notification-toast-container {
+  border-radius: 20px !important;
+  backdrop-filter: blur(20px) !important;
+  border: none !important;
+  background: none !important;
+}
+
+.notification-list-item-message {
+  font-family: "Arial";
+  line-height: 20px !important;
+  font-size: 12px !important;
+}
+
+.terminal {
+  border-radius: 10px !important;
+  border: none !important;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.45) !important;
+}
+
+footer {
+  background: linear-gradient(70deg, #b7acb761 0%, #413c415c 75%) !important;
+  opacity: 0.5;
+}
