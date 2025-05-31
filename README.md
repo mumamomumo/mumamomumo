@@ -14,16 +14,11 @@ I enjoy meeting new people, and I enjoy learning new stuff from other people.
 I love being positive, because why should I intentionally bring negativity into my life by criticizing, judging, or hating people?
 
 
-## Currently making / Plan to make
-* Yet another productivity app - Almost done. I used this to learn React and Tauri
-* Paint app with Python AI trained with the MNIST dataset - Used this to learn NNs in Python with Numpy, still WIP
+## Proud Projects
+[Yet Another Productivity App](https://anotherproductivity.vercel.app/) - An app made with React, Typescript, bundled with Tauri. I didn't use Rust for this app. It's available on the web too.
+[This thing](https://github.com/mumamomumo/ui-testing-thingy) - A little project to practice CSS.
+[Pomodoro Thingy](https://github.com/mumamomumo/pomodoro-thingy) - A pomodoro timer that looks like a Nintendo Gameboy. The buttons work, and you can input numbers with the keyboard. No games on it though :(
 
-## What I might make
-* Snippet Vault - To learn the basics of meta-frameworks, authentication, and database stuff.
-
-## Currently learning
-* [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-* [![SolidStart](https://img.shields.io/badge/SolidStart-3c5fbc?style=for-the-badge&logo=solid&logoColor=white)](https://docs.solidjs.com/solid-start)
 
 ## Stuff I know
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) 
@@ -33,7 +28,6 @@ I love being positive, because why should I intentionally bring negativity into 
 [![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)](https://v2.tauri.app/) 
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Solid](https://img.shields.io/badge/SolidJS-48b?style=for-the-badge&logo=solid&logoColor=white)](https://www.solidjs.com/) 
-[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/) 
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/) 
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/) 
