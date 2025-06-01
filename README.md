@@ -1,7 +1,6 @@
 *Yet another profile readme*
 
 ## About me
-I am yet another 16 year old that's interested in coding.
 
 I want to try everything but end up trying nothing. I start a lot of projects, end up finishing none of them.
 
