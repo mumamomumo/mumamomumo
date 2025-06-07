@@ -2,23 +2,18 @@
 
 ## About me
 
-I want to try everything but end up trying nothing. I start a lot of projects, end up finishing none of them.
-
 I enjoy coding, and I love the feeling of solving a problem on my own, without any AI :D
 
 I love learning, and I love the satisfaction when I understand something that was difficult to me.
 
 I enjoy meeting new people, and I enjoy learning new stuff from other people.
 
-I love being positive, because why should I intentionally bring negativity into my life by criticizing, judging, or hating people?
-
-
 ## Proud Projects
 [Yet Another Productivity App](https://anotherproductivity.vercel.app/) - An app made with React, Typescript, bundled with Tauri. I didn't use Rust for this app. It's available on the web too.
 
 [This thing](https://github.com/mumamomumo/ui-testing-thingy) - A little project to practice CSS.
 
-[Pomodoro Thingy](https://github.com/mumamomumo/pomodoro-thingy) - A pomodoro timer that looks like a Nintendo Gameboy. The buttons work, and you can input numbers with the keyboard. No games on it though :(
+[Pomodoro Thingy](https://github.com/mumamomumo/pomodoro-thingy) - A pomodoro timer that looks like a Nintendo Gameboy. The buttons work, and you can input numbers with the keyboard. No games on it though... yet
 
 
 ## Stuff I know
